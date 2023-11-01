@@ -1,0 +1,1 @@
+var album = await api.getAlbum(playlistid);
